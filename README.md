@@ -10,3 +10,7 @@ The project also offers a secure and user-friendly dashboard, allowing authorize
 To ensure the security and privacy of users, the Flask Website incorporates a login/logout system. This feature grants authorized users exclusive access to restricted areas and personalized content, while also providing the option to securely log out when needed.
 
 In summary, the Flask Website developed by Omnific combines HTML, CSS, JavaScript, and Flask to create a fully functional web application with a captivating home page, informative about page, interactive contact page, secure dashboard, and user-friendly login/logout system. It aims to provide an engaging and efficient user experience while effectively conveying the project's purpose and content.
+
+In order to run this project you have to install flask using the below command :
+
+      pip install Flask
